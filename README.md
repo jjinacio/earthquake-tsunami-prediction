@@ -30,4 +30,4 @@ Only 782 earthquakes from 2001-2022, and a modest 70% accuracy. This is a class 
 pip install -r requirements.txt
 jupyter notebook earthquake_tsunami_prediction.ipynb
 ```
-A short write-up is in [`docs/technical-report.pdf`](docs/technical-report.pdf).
+A short write-up is in [`docs/technical-report.pdf`](docs/technical-report.pdf), and a project portfolio is in [`docs/portfolio.pdf`](docs/portfolio.pdf).
